@@ -1,4 +1,4 @@
-#SE-DAY5-Technical-Writing
+#SE-DAY5-Technical-Writing.
 How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
 Understanding your audience’s expertise level is crucial when presenting technical information because it helps you tailor your message to ensure clarity, engagement, and comprehension ie.For Tech Experts:You can freely use specialized terminology and advanced concepts, assuming they are familiar with the subject matter;The pace of the presentation can be quicker since your audience can process technical concepts rapidly without needing basic explanations;You can focus on higher-level innovations or cutting-edge developments in the field while For Regular Folks (Non-Tech Audience):You’ll need to simplify the language, using everyday analogies to explain complex concepts;The presentation should move at a slower pace to ensure understanding and retention
